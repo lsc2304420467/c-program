@@ -1,0 +1,4 @@
+﻿  Concst.cpp
+E:\c代码\Concst\Concst.h(49,2): warning C4091: “typedef ”: 没有声明变量时忽略“Concst”的左侧
+E:\c代码\Concst\Concst.cpp(231,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  Concst.vcxproj -> E:\c代码\Concst\Debug\Concst.exe
